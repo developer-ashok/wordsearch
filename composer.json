@@ -1,8 +1,8 @@
 {
-    "name": "xmeltrut/word-search",
+    "name": "coderubix/word-search",
     "type": "library",
     "description": "Word search generator.",
-    "homepage": "http://github.com/xmeltrut/WordSearch",
+    "homepage": "https://github.com/developer-ashok/wordsearch",
     "license": "MIT",
     "authors": [
         {
